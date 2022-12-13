@@ -145,7 +145,7 @@
 
 		/*~-~-~- Bottom to Top ~-~-~- */
 
-		$('body').append('<div id="scrollup"><a href="https://wa.me/9607919111?text=I\'m%20interested%20in%20your%20services"><i class="fa fa-whatsapp"></i></a></div>');
+		/**$('body').append('<div id="scrollup"><a href="https://wa.me/9607919111?text=I\'m%20interested%20in%20your%20services"><i class="fa fa-whatsapp"></i></a></div>'); **/
 		/**$('body').append('<div id="wsap"><i class="fa fa-whatsapp"></i></div>');**/
 
 
