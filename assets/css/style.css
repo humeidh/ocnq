@@ -244,7 +244,7 @@ p {
 .section-title {
 	/**text-align: center;**/
 	text-align:left;
-	margin-bottom: 80px;
+	/**margin-bottom: 80px;**/
 	position: relative
 }
 
@@ -850,7 +850,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 	margin-bottom: 40px;
 	position: relative;
 	z-index: 1;
-	padding-bottom: 20px;
+	/**padding-bottom: 20px;**/
 }
 
 .about-content h2:after {
@@ -859,7 +859,7 @@ nav.navbar.navbar-default.navbar-fixed-top {
 	left: 0;
 	bottom: 0;
 	width: 100px;
-	border-bottom: 2px solid #02a8f4;
+	/**border-bottom: 2px solid #02a8f4;**/
 }
 
 .about-content h2 span {
@@ -2359,7 +2359,7 @@ ul.portfolio {
 }
 
 .separator{
-	border-bottom: 2px solid #02a8f4;
+	/**border-bottom: 2px solid #02a8f4;**/
 	width: 6em;
 	height:2px;
 	margin-top:2em;
